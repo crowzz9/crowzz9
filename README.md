@@ -11,7 +11,7 @@ Prob gonna publish project asgis as public release.
 # my programming languages :
 [![My Skills](https://skillicons.dev/icons?i=js,java,lua,cpp,python,bash)](https://skillicons.dev)
 # techs
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,nodejs,npm,git,github,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,nodejs,npm,git,github,discordjs,unreal)](https://skillicons.dev)
 # database 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
