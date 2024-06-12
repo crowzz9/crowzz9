@@ -8,7 +8,7 @@ Prob gonna publish project asgis as public release.
 > i'm also starting to update this github profile after 3 years lo
 
 ---
-# my programmings languages :
+# my programming languages :
 [![My Skills](https://skillicons.dev/icons?i=js,java,lua,cpp,python,bash)](https://skillicons.dev)
 # techs
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,nodejs,npm,git,github,unreal)](https://skillicons.dev)
@@ -16,7 +16,7 @@ Prob gonna publish project asgis as public release.
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 ---
-# my git status 
+# my git profile status 
 
 ![](https://github-readme-stats.vercel.app/api?username=cazum9opudim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
