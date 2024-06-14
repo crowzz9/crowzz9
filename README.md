@@ -9,7 +9,7 @@ Prob gonna publish project asgis as public release.
 
 ---
 # my programming languages :
-[![My Skills](https://skillicons.dev/icons?i=js,java,lua,cpp,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,lua,cpp,python,bash,ts)](https://skillicons.dev)
 # techs
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,nodejs,npm,git,github,discordjs,unreal)](https://skillicons.dev)
 # database 
