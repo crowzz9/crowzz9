@@ -13,7 +13,7 @@ Prob gonna publish project asgis as public release.
 # techs
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,nodejs,npm,git,github,discordjs,unreal)](https://skillicons.dev)
 # database 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ---
 # my git profile status 
