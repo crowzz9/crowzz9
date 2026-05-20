@@ -1,7 +1,7 @@
 ## Crowzz9
 I'm a Self-taught backend dev and currently learning full stack. 
 <br>
-newbie linux user (using ubuntu at the moment) 
+newbie linux user (currently choosing an linux) 
 <br>
 Prob gonna publish project asgis as public release.
 >[!NOTE]
@@ -12,8 +12,8 @@ Prob gonna publish project asgis as public release.
 [![My Skills](https://skillicons.dev/icons?i=js,java,lua,cpp,python,bash,ts,rust)](https://skillicons.dev)
 # techs
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,nodejs,npm,git,github,discordjs,unreal)](https://skillicons.dev)
-# database 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+# database (still gonna learn :p)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 ---
 # my git profile status 
